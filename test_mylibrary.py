@@ -6,7 +6,7 @@ from mylibrary import sumValues
     "array, sum",
     [
         ([1,2,3], 6),
-        ([3,5,6], 33)
+        ([3,5,6], 14)
     ],
 )
 
