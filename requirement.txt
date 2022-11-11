@@ -1,3 +1,2 @@
 pytest==7.2.0
-flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 pyflakes==2.2.0
